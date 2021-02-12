@@ -14,7 +14,8 @@ vector<int>randm(int n){
 //快速排序 
 void QuickSort(vector<int> &nums,int left,int right)
 {
-	if(left>=right) return;
+	if(left>=right)
+	return;
 	int i=left,j=right,base=nums[left];
 	while(i<j)
 	{
@@ -24,11 +25,11 @@ void QuickSort(vector<int> &nums,int left,int right)
 		if(i<j){
 			swap(nums[i],nums[j]);
 		}
-		nums[left] = nums[i];
-		nums[i] = base;
-		QuickSort(nums,left,i-1);
-		QuickSort(nums,i+1,right);
 	}
+	nums[left] = nums[i];
+	nums[i] = base;
+	QuickSort(nums,left,i-1);
+	QuickSort(nums,i+1,right);
 }
 //快速排序 
 
