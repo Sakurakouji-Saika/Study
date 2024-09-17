@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>C:/Users/Moe/Desktop/sample4_5/images/132.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/212.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/322.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/324.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/500.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/502.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/504.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/508.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/510.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/512.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/514.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/516.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/718.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/724.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/728.bmp</file>
+        <file>C:/Users/Moe/Desktop/sample4_5/images/app.ico</file>
+    </qresource>
+</RCC>

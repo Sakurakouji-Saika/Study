@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/a-.png</file>
+        <file>icons/a-addcontact.png</file>
+        <file>icons/a-adddevice.png</file>
+        <file>icons/a-cellvoltage.png</file>
+        <file>icons/a-serviceticket.png</file>
+        <file>icons/a-staticsdata.png</file>
+        <file>icons/calender.png</file>
+        <file>icons/cause.png</file>
+        <file>icons/computer.png</file>
+        <file>icons/config.png</file>
+        <file>icons/current.png</file>
+        <file>icons/customer.png</file>
+        <file>icons/delete.png</file>
+        <file>icons/device.png</file>
+        <file>icons/dot.png</file>
+        <file>icons/home.png</file>
+        <file>icons/info2.png</file>
+        <file>icons/notification.png</file>
+        <file>icons/organization.png</file>
+        <file>icons/overview.png</file>
+        <file>icons/people.png</file>
+        <file>icons/send.png</file>
+        <file>icons/signout.png</file>
+        <file>icons/solution.png</file>
+        <file>icons/status.png</file>
+        <file>icons/temperature.png</file>
+        <file>icons/thunder.png</file>
+        <file>icons/tracking.png</file>
+        <file>icons/unbound1.png</file>
+        <file>icons/unbound2.png</file>
+        <file>icons/voltage.png</file>
+    </qresource>
+</RCC>
